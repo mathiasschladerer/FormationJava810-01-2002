@@ -1,4 +1,4 @@
-package fr.dawan.tableaux;
+package fr.dawan.tableaux.tableaux_statique;
 
 public class TableauxMultidimensionnelsDeclarationEtInitialisation {
 

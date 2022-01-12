@@ -1,4 +1,4 @@
-package fr.dawan.tableaux;
+package fr.dawan.tableaux.tableaux_statique;
 
 /*
  * Nous allons voir les avantages et inconveniernts entre l'iteraton classique
