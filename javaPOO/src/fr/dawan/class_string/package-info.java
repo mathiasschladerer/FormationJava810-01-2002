@@ -1,0 +1,1 @@
+package fr.dawan.class_string;
